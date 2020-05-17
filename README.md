@@ -8,8 +8,8 @@
 * RESTful 应用模式：服务通过传统的网络协议或者应用协议提供，背后通常是一个多功能的应用程序，常见于企业内部
 * 集中消息模式：采用消息代理（message broker），可以实现消息队列、负载均衡、统一日志和异常处理，缺点是会出现单点失败，消息代理可能要做成集群
 
-### 组件
-* [API Gateway](API-Gateway/README.md)
+### 组件  
+* [API Gateway](API-Gateway/README.md)  
 
 ## 实践
 * [网易云 - 轻舟微服务](https://www.163yun.com/product-nsf?fromnsf=baiduP_service_C190130P11)
